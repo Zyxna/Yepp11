@@ -1,0 +1,4 @@
+getgenv().key = "YOUR KEY"
+getgenv().version = "0.4.4"
+ getgenv().mobile = true
+                        loadstring(game:HttpGet("https://raw.githubusercontent.com/metaontop/metametametameat/main/metametametamteametameat"))()
